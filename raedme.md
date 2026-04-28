@@ -25,3 +25,10 @@ cd my_project
 git init
 ```
 Это лишь некоторые функции markdown.
+
+```bash
+ls - la
+```
+```html
+<h1>А я просто текст</h1>
+```
